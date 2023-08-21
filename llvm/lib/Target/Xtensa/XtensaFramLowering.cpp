@@ -12,7 +12,6 @@
 //===----------------------------------------------------------------------===//
 
 #include "XtensaFrameLowering.h"
-
 #include "XtensaInstrInfo.h"
 #include "XtensaMachineFunctionInfo.h"
 #include "XtensaSubtarget.h"
